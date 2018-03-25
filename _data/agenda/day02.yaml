@@ -152,7 +152,7 @@ agenda:
 
   - hour: '14:15'
     tracks:
-      - name: 'Lightining Talks'
+      - name: 'Lightning Talks'
         tags:
           - track-grace
           - lt
@@ -209,8 +209,8 @@ agenda:
 
   - hour: '16:55'
     tracks:
-      - name: 'Paletra a definir'
-        speaker: 'Paletrante a definir'
+      - name: 'Palestra a definir'
+        speaker: 'Palestrante a definir'
         tags:
           - track-grace
           - palestra
@@ -225,7 +225,7 @@ agenda:
 
   - hour: '17:05'
     tracks:
-      - name: 'Lightining Talks'
+      - name: 'Lightning Talks'
         tags:
           - track-hall
           - lt
